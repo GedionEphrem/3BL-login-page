@@ -77,3 +77,15 @@ align-items:flex-end ;
 
 
 }
+.submit{
+    width: 200px;
+    height: 30px; 
+    border: 10px;   
+    border-radius: 17px;  
+    padding-right: 4px;  
+    font-size: 20px;
+    color: #5A9AE5;  
+    background: #9CC7D6; 
+    display: flex;
+    justify-content: center;
+ }
